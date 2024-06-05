@@ -1,7 +1,7 @@
 {
   "name": "bcrypt-user-password",
   "version": "1.0.0",
-  "description": "Saves user passwords using Bcrypt algorithm in Node.js",
+  "description": "Store user passwords using Bcrypt algorithm in Node.js",
   "type": "module",
   "engines": {
     "node": ">=20"

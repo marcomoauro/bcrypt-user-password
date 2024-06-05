@@ -1,6 +1,6 @@
-# Node backend template
+# Bcrypt users passwords
 
-Backend template for Node.js.
+Store user passwords using Bcrypt algorithm in Node.js.
 
 ## Requirements
 
