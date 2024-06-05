@@ -1,7 +1,7 @@
 {
   "name": "bcrypt-user-password",
   "version": "1.0.0",
-  "description": "Backend template for Node.js",
+  "description": "Saves user passwords using Bcrypt algorithm in Node.js",
   "type": "module",
   "engines": {
     "node": ">=20"
@@ -15,8 +15,9 @@
     "url": "git+https://github.com/marcomoauro/bcrypt-user-password.git"
   },
   "keywords": [
-    "template",
-    "backend",
+    "bcypt",
+    "user",
+    "password",
     "node.js",
     "koa.js"
   ],
@@ -39,6 +40,7 @@
     "lodash": "4.17.21",
     "luxon": "^3.4.4",
     "memoizee": "0.4.15",
+    "mysql2": "^3.10.0",
     "nano-id": "1.1.0",
     "nodemailer": "6.9.13",
     "p-queue": "8.0.1"
